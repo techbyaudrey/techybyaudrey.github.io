@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(144, 190, 255)
+}
+
+h2 {
+    font-family: "Caveat Brush", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  p {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  footer {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  ul {
+    padding: 10px;
+  }
+  li {
+    padding: 0px 10px 0px 10px;
+  }
+  header{
+    text-align: center;
+    background: url("Images/background.jpg");
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+  }
+  h1 {
+    color: rgb(182, 220, 255);
+    font-family: "Caveat Brush", sans-serif;
+  }
